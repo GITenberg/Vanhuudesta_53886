@@ -1,0 +1,35 @@
+_repo: Vanhuudesta_53886
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hidén, K. J. (Karl Julius)
+    aliases:
+    - Hidén, Carolus I. (Carolus Iulius)
+    - Hiden, K. J. (Karl Julius)
+    - Hidén, Karl Julius
+    birthdate: 1867
+    gutenberg_agent_id: '47283'
+    url: http://www.gutenberg.org/2009/agents/47283
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: ''
+gutenberg_issued: '2017-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53886'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Old age'
+- GITenberg
+title: Vanhuudesta
+url: http://www.gutenberg.org/ebooks/53886
